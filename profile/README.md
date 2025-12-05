@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/111525497?s=400&u=951889ca80de8c9c9452fc676a88ade461de2d5f&v=4" alt="Oxara Labs Logo" width="200" height="200" style="border-radius: 50%;">
   
-  # 🚀 Oxara Development
+# <img src="https://avatars.githubusercontent.com/u/111525497?s=400&u=951889ca80de8c9c9452fc676a88ade461de2d5f&v=4" width="24" alt="Oxara logo" /> Oxara Development
   
   ### *Building the future of Discord development*
   
@@ -14,7 +14,7 @@
 
 We're a passionate team of developers dedicated to creating innovative tools and solutions for the Discord ecosystem. What started as a vision to improve Discord bot development has grown into a comprehensive suite of projects aimed at empowering developers worldwide.
 
-## 🎯 Our Mission
+## Our Mission
 
 To provide developers with powerful, reliable, and easy-to-use tools that enhance Discord bot development and community management.
 
@@ -23,9 +23,9 @@ To provide developers with powerful, reliable, and easy-to-use tools that enhanc
 ### InterChat - Our Flagship Discord Bot 
 
 <a href="https://top.gg/bot/769921109209907241">
-  <img src="https://top.gg/api/widget/servers/769921109209907241.svg" style="vertical-align: middle;">
+  <img src="https://top.gg/api/widget/servers/769921109209907241.svg">
 </a>
-<span style="margin-left: 10px; vertical-align: middle;">
+<span style="margin-top: 10px; vertical-align: middle;">
   <a href="https://interchat.tech/invite">Add to Discord</a> • 
   <a href="https://interchat.tech/docs">Documentation</a> • 
   <a href="https://discord.gg/cgYgC6YZyX">Support Server</a> • 
@@ -67,26 +67,19 @@ We're just getting started! Here's what's on our roadmap:
 We believe in the power of community-driven development. Join us and be part of something amazing:
 
 - 💬 **[Discord Server](https://interchat.dev/support)** - Get support, share ideas, and connect with other developers
-- 🐦 **[Follow us](https://x.com/oxaradev** for the latest updates and announcements
+- 🐦 **[Follow us](https://x.com/oxaradev)** for the latest updates and announcements
 - ⭐ **Star our repositories** to stay updated with our latest projects
 - 🐛 **Report issues** and help us improve our tools
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oxaradev&show_icons=true&theme=radical&hide_border=true" alt="Oxara GitHub Stats" />
-</div>
 
 ## 💡 Get Involved
 
 Whether you're a seasoned developer or just starting out, there are many ways to get involved:
 
-- **🔧 Contribute** to our open-source projects
-- **📝 Documentation** - Help improve our docs and tutorials
-- **🐞 Bug Reports** - Help us identify and fix issues
-- **💰 Sponsor** - Support our development efforts
+- **Contribute** to our open-source projects
+- **Documentation** - Help improve our docs and tutorials
+- **Bug Reports** - Help us identify and fix issues
+- **Sponsor** - Support our development efforts
 
 ---
 
